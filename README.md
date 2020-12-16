@@ -1,9 +1,6 @@
 ## Student Info:
 1. Matric Number : 259265
 2. Name          : Nasuha binti Shamsull Naim 
-3. Photo         : 
-  <img src="https://github.com/STIW3054-A192/stiw3054-assignment2-nasuhashamsullnaim/blob/master/images/Nasuha.jpg" width="500"/>
-4. Other related info (if any)
 
 ## Introduction
 This assignment 2 is need to develop system for corona virus update for all countries. In this system, it will get the data from other website in Google and display it 
